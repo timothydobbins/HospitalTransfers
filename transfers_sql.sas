@@ -1,4 +1,6 @@
-* Author: Timothy Dobbins
+* Author: Timothy Dobbins. Derived from code developed by Andrew Hayen, and
+    incorporating suggestions from past students and instructors from
+    University of Sydney's Introductory Analysis of Linked Data workshop
   Purpose: Create code to identify transfers, including nested transfers
   Date: June, 2012
   Updated June 2014 to create stayseq, and to populate final length of stay to all records within a stay
