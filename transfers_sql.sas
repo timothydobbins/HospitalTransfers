@@ -108,6 +108,6 @@ PROC SQL;
 QUIT;
 
 * Examine data;
-PROC PRINT DATA=los NOOBS;
+PROC PRINT DATA=los (OBS=50) NOOBS;
    BY ppn;
 RUN;
